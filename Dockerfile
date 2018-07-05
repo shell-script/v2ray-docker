@@ -43,4 +43,4 @@ ADD src/index.html /usr/share/nginx/html/
 ADD src/404.html /usr/share/nginx/html/
 
 EXPOSE 8080
-ENTRYPOINT ["/etc/entrypoint.sh"]
+CMD /etc/entrypoint.sh
