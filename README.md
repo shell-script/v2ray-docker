@@ -4,7 +4,6 @@ A v2ray docker image work with nginx for Arukas.
 
 - v2ray work with websocket
 - v2ray request proxy_pass by nginx
-- suppose php
 - custom v2ray settings
 - add environment variables to edit optional setting
   - CLIENT_ID (default f3c9cb27-746f-4e41-acf2-820bd3002676)
